@@ -52,9 +52,9 @@ tabulate==0.9.0
 
 ## ⚙️ Setup & Installation
 
-Step 1 – Clone Repository**
-git clone git@github.com:vishantrana007/Expense-Tracker.git
-cd EXPENSE_TRACKER
+Step 1 – Clone Repository
+git clone git@github.com:vishantrana007/EXPENSE-TRACKER--PYTHON-MONGODB-.git
+cd EXPENSE-TRACKER--PYTHON-MONGODB-
 
 Step 2 – Create Virtual Environment
 python -m venv venv
@@ -143,7 +143,6 @@ Exit Application
 
 MongoDB Test Connection  
 ![MongoDB Test](screenshots/test_mongo_connection.png)  
-
 
 ## 📝 Notes
 1. Ensure MongoDB service is running before executing scripts.
