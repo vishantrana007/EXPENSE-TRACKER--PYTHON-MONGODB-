@@ -133,10 +133,10 @@ Delete Expense
 ![Delete Expense](screenshots/05_delete_expense.png)  
 
 Monthly Summary  
-![Monthly Summary](screenshots/06_monthly_expense.png)  
+![Monthly Summary](screenshots/06_monthly_summary.png)  
 
 Category-wise Report  
-![Category-wise Report](screenshots/07_category_expense.png)  
+![Category-wise Report](screenshots/07_category_report.png)  
 
 Exit Application  
 ![Exit](screenshots/08_exit.png)  
